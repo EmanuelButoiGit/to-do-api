@@ -1,0 +1,1 @@
+create sequence HIBERNATE_SEQUENCE start with 1 increment by 1;

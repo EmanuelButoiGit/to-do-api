@@ -1,7 +1,7 @@
 # to-do-api
 REST API built with Springboot, Gradle &amp; Postgres.
 
-Don't forget to create your database and add your credential.
+Don't forget to create your own database and add your credentials.
 
 <br/><br/>
 
